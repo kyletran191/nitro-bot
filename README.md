@@ -39,8 +39,8 @@
 <p><li>Language: Python</li></p>
 <p><li>License: GNU General Public License v3.0</li></p>
 <h1>Preview</h1>
-<p align="center"><img src="demo.png" alt="Preview"></p>
-<p align="center"><img src="demo2.png" alt="Preview"></p>
+<p align="center"><img src="img/demo.png" alt="Preview"></p>
+<p align="center"><img src="img/demo2.png" alt="Preview"></p>
 <h1>Contact</h1>
 <p><li>Email: contact@tranbaokha.com</li></p>
 <p><li>Discord: KyleTran#0206</li></p>
