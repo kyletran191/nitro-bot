@@ -16,7 +16,7 @@
 
 ### Features
 
-- Generator and check discord nitro code | ZerosDev
+- Generator and check discord nitro code 
 ### Installation
 - Install
   ```
